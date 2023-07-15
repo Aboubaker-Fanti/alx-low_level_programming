@@ -8,8 +8,6 @@
  * if n < 0  we will print negative && if
  * n eqal 0 we will print zero that's all
  */
-
-
 int main(void)
 {
 	int n;
