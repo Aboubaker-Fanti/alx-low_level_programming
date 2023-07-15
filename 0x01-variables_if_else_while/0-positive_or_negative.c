@@ -2,6 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
+/*
+ *if n > 0 we will print is positive and if n < 0  we will print negative and if n eqal 0 we will print zero that's all
+ */
 
 /* betty style doc for function main goes there */
 int main(void)
