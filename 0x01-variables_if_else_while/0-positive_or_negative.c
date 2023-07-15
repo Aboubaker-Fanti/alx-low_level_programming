@@ -4,14 +4,12 @@
 
 
 /**
- *if n > 0 we will print is positive &
- * if n < 0  we will print negative && if
- * n eqal 0 we will print zero that's all
- * main - Check n number
- * Description: Print if a number is positive || negative || zero
- * Return: 0 value
+ * main - Check n number.
+ * @void: Null value
+ *
+ * Description: Print if a number is positive | negative or zero
+ * Return: Zero value
  */
-
 
 int main(void)
 {
