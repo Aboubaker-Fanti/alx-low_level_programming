@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main => Entry point
+ * main - Entry point
  * @void: Null value
  *
  * Description: Print alphabet lowercase

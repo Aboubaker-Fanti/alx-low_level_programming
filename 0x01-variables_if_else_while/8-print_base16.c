@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main => Entry point
+ * main - Entry point
  * @void: Null value
  *
  * Description: Print numbers of base 16

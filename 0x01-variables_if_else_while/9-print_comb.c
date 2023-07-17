@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main => Entry point
+ * main - Entry point
  * @void: Null value
  *
  * Description: Print numbers from 0 to 9 separated by comma and space
