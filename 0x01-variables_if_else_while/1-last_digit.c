@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main:  Entry point
+ * main -  Entry point
  * @void: 0 value
  *
  * Description: Check the last digit of  number
