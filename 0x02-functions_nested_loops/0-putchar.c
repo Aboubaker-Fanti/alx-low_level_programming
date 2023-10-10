@@ -13,6 +13,6 @@ int main(void)
 	{
 		_putchar(string[c]);
 	}
-	_putchar("\n");
+	_putchar('\n');
 	return (0);
 }
