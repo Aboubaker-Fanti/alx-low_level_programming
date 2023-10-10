@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	char *string = "_putchar";
+	char string[] = "_putchar";
 
 	int c;
 
@@ -13,6 +13,6 @@ int main(void)
 	{
 		_putchar(string[c]);
 	}
-	_putchar('\n');
+	_putchar("\n");
 	return (0);
 }
