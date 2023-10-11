@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - 
+ * _isalpha - checking for alphabit character
  *
  * @c: is c an integer argument
  *
